@@ -1,0 +1,8 @@
+﻿  FirstZ.cpp
+  FiveZ.cpp
+  FourthZ.cpp
+  SecondZ.cpp
+C:\Users\egori\projectes\FourthLab\SecondZ.cpp(22,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ThierdZ.cpp
+  Создание кода...
+  FourthLab.vcxproj -> C:\Users\egori\projectes\FourthLab\x64\Debug\FourthLab.exe

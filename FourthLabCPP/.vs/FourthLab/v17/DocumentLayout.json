@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egori\\projectes\\FourthLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|C:\\Users\\egori\\projectes\\FourthLab\\FourthZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|solutionrelative:FourthZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|C:\\Users\\egori\\projectes\\FourthLab\\SecondZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|solutionrelative:SecondZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|C:\\Users\\egori\\projectes\\FourthLab\\FiveZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|solutionrelative:FiveZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|C:\\Users\\egori\\projectes\\FourthLab\\ThierdZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|solutionrelative:ThierdZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|C:\\Users\\egori\\projectes\\FourthLab\\FirstZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|solutionrelative:FirstZ.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|C:\\Users\\egori\\projectes\\FourthLab\\Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E5F0F9-1685-4B9E-9D5E-6039FD8F4CF7}|FourthLab.vcxproj|solutionrelative:Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tester.cpp",
+              "DocumentMoniker": "C:\\Users\\egori\\projectes\\FourthLab\\Tester.cpp",
+              "RelativeDocumentMoniker": "Tester.cpp",
+              "ToolTip": "C:\\Users\\egori\\projectes\\FourthLab\\Tester.cpp",
+              "RelativeToolTip": "Tester.cpp",
+              "ViewState": "AQIAANoAAAAAAAAAAAAowOEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T14:29:46.219Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstZ.cpp",
+              "DocumentMoniker": "C:\\Users\\egori\\projectes\\FourthLab\\FirstZ.cpp",
+              "RelativeDocumentMoniker": "FirstZ.cpp",
+              "ToolTip": "C:\\Users\\egori\\projectes\\FourthLab\\FirstZ.cpp",
+              "RelativeToolTip": "FirstZ.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAADwv6wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:54:38.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondZ.cpp",
+              "DocumentMoniker": "C:\\Users\\egori\\projectes\\FourthLab\\SecondZ.cpp",
+              "RelativeDocumentMoniker": "SecondZ.cpp",
+              "ToolTip": "C:\\Users\\egori\\projectes\\FourthLab\\SecondZ.cpp",
+              "RelativeToolTip": "SecondZ.cpp",
+              "ViewState": "AQIAAJUAAAAAAAAAAADwvwsBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T05:55:38.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiveZ.cpp",
+              "DocumentMoniker": "C:\\Users\\egori\\projectes\\FourthLab\\FiveZ.cpp",
+              "RelativeDocumentMoniker": "FiveZ.cpp",
+              "ToolTip": "C:\\Users\\egori\\projectes\\FourthLab\\FiveZ.cpp",
+              "RelativeToolTip": "FiveZ.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:54:31.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FourthZ.cpp",
+              "DocumentMoniker": "C:\\Users\\egori\\projectes\\FourthLab\\FourthZ.cpp",
+              "RelativeDocumentMoniker": "FourthZ.cpp",
+              "ToolTip": "C:\\Users\\egori\\projectes\\FourthLab\\FourthZ.cpp",
+              "RelativeToolTip": "FourthZ.cpp",
+              "ViewState": "AQIAAHEAAAAAAAAAAADwv5wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:54:24.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThierdZ.cpp",
+              "DocumentMoniker": "C:\\Users\\egori\\projectes\\FourthLab\\ThierdZ.cpp",
+              "RelativeDocumentMoniker": "ThierdZ.cpp",
+              "ToolTip": "C:\\Users\\egori\\projectes\\FourthLab\\ThierdZ.cpp",
+              "RelativeToolTip": "ThierdZ.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAADwv0wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T13:34:09.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
